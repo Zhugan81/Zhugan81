@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/Zhugan81
+- 📫
 
 <!---
 Zhugan81/Zhugan81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
